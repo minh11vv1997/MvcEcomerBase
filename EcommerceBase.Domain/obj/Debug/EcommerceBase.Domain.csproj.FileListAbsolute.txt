@@ -1,0 +1,32 @@
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Domain\bin\Debug\EcommerceBase.Domain.dll.config
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Domain\bin\Debug\EcommerceBase.Domain.dll
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Domain\bin\Debug\EcommerceBase.Domain.pdb
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Domain\bin\Debug\EntityFramework.dll
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Domain\bin\Debug\EntityFramework.xml
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Domain\obj\Debug\EcommerceBase.Domain.csprojAssemblyReference.cache
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Domain\obj\Debug\EcommerceBase.Domain.csproj.CoreCompileInputs.cache
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Domain\obj\Debug\EcommerceBase.Domain.csproj.CopyComplete
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Domain\obj\Debug\EcommerceBase.Domain.dll
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Domain\obj\Debug\EcommerceBase.Domain.pdb
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Domain\obj\Debug\EcommerceBase.Domain.Migrations.InitDatabase.resources
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Domain\obj\Debug\EcommerceBase.Domain.csproj.GenerateResource.cache
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Domain\bin\Debug\GenFu.dll
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Domain\obj\Debug\EcommerceBase.Domain.Migrations.AddMoreField_ParentId_To_Category.resources
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Domain\bin\Debug\EcommerceBase.Domain.dll.config
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Domain\bin\Debug\EcommerceBase.Domain.dll
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Domain\bin\Debug\EcommerceBase.Domain.pdb
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Domain\bin\Debug\GenFu.dll
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Domain\obj\Debug\EcommerceBase.Domain.csprojAssemblyReference.cache
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Domain\obj\Debug\EcommerceBase.Domain.Migrations.InitDatabase.resources
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Domain\obj\Debug\EcommerceBase.Domain.Migrations.AddMoreField_ParentId_To_Category.resources
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Domain\obj\Debug\EcommerceBase.Domain.csproj.GenerateResource.cache
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Domain\obj\Debug\EcommerceBase.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Domain\obj\Debug\EcommerceBase.Domain.csproj.CopyComplete
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Domain\obj\Debug\EcommerceBase.Domain.dll
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Domain\obj\Debug\EcommerceBase.Domain.pdb

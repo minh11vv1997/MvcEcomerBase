@@ -1,0 +1,208 @@
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\ApplicationInsights.config
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\EcommerceBase.Websites.dll.config
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\EcommerceBase.Websites.dll
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\EcommerceBase.Websites.pdb
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\roslyn\csc.exe
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\roslyn\csc.exe.config
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\roslyn\csc.rsp
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\roslyn\csi.exe
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\roslyn\csi.exe.config
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\roslyn\csi.rsp
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\roslyn\Microsoft.Managed.Core.targets
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\roslyn\System.AppContext.dll
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\roslyn\System.Collections.Immutable.dll
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\roslyn\System.Console.dll
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\roslyn\System.IO.Compression.dll
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\roslyn\System.IO.FileSystem.dll
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\roslyn\System.IO.Pipes.dll
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\roslyn\System.Reflection.Metadata.dll
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\roslyn\System.Security.AccessControl.dll
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\roslyn\System.Security.Claims.dll
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\roslyn\System.Security.Principal.Windows.dll
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\roslyn\System.ValueTuple.dll
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\roslyn\System.Xml.XmlDocument.dll
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\roslyn\System.Xml.XPath.dll
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\roslyn\vbc.exe
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\roslyn\vbc.exe.config
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\roslyn\vbc.rsp
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\roslyn\VBCSCompiler.exe
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\roslyn\VBCSCompiler.exe.config
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\Antlr3.Runtime.dll
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\Microsoft.AI.Agent.Intercept.dll
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\Microsoft.AI.DependencyCollector.dll
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\Microsoft.AI.Web.dll
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\Microsoft.AI.WindowsServer.dll
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\Microsoft.ApplicationInsights.dll
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\Microsoft.Web.Infrastructure.dll
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\Newtonsoft.Json.dll
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\System.Diagnostics.DiagnosticSource.dll
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\System.Web.Helpers.dll
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\System.Web.Mvc.dll
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\System.Web.Optimization.dll
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\System.Web.Razor.dll
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\System.Web.WebPages.Deployment.dll
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\System.Web.WebPages.dll
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\System.Web.WebPages.Razor.dll
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\WebGrease.dll
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\System.Web.Helpers.xml
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\System.Web.Mvc.xml
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\System.Web.Optimization.xml
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\System.Web.Razor.xml
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\System.Web.WebPages.xml
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\System.Web.WebPages.Deployment.xml
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\System.Web.WebPages.Razor.xml
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\Newtonsoft.Json.xml
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\Antlr3.Runtime.pdb
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\System.Diagnostics.DiagnosticSource.xml
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\Microsoft.AI.DependencyCollector.xml
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\Microsoft.AI.WindowsServer.xml
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\Microsoft.AI.Web.xml
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\obj\Debug\EcommerceBase.Websites.csprojAssemblyReference.cache
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\obj\Debug\EcommerceBase.Websites.csproj.CoreCompileInputs.cache
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\obj\Debug\EcommerceBase.Websites.csproj.CopyComplete
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\obj\Debug\EcommerceBase.Websites.dll
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\obj\Debug\EcommerceBase.Websites.pdb
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\EcommerceBase.Domain.dll
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\EntityFramework.dll
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\EntityFramework.SqlServer.dll
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\GenFu.dll
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\EcommerceBase.Domain.pdb
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\EcommerceBase.Domain.dll.config
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\EntityFramework.xml
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\EntityFramework.SqlServer.xml
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\AutoMapper.dll
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\System.ValueTuple.dll
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\AutoMapper.pdb
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\AutoMapper.xml
+D:\T3H\Asp.net 1809\EcommerceBase\EcommerceBase.Websites\bin\System.ValueTuple.xml
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\ApplicationInsights.config
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\EcommerceBase.Websites.dll.config
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\EcommerceBase.Websites.dll
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\EcommerceBase.Websites.pdb
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\roslyn\csc.exe
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\roslyn\csc.exe.config
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\roslyn\csc.rsp
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\roslyn\csi.exe
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\roslyn\csi.exe.config
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\roslyn\csi.rsp
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\roslyn\System.AppContext.dll
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\roslyn\System.Console.dll
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\roslyn\System.IO.Compression.dll
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\roslyn\System.Security.Claims.dll
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\roslyn\System.ValueTuple.dll
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\roslyn\vbc.exe
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\roslyn\vbc.exe.config
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\roslyn\vbc.rsp
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\roslyn\VBCSCompiler.exe
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\Antlr3.Runtime.dll
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\AutoMapper.dll
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\EcommerceBase.Domain.dll
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\EntityFramework.dll
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\EntityFramework.SqlServer.dll
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\Microsoft.AI.Web.dll
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\Newtonsoft.Json.dll
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\System.ValueTuple.dll
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\System.Web.Helpers.dll
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\System.Web.Mvc.dll
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\System.Web.Optimization.dll
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\System.Web.Razor.dll
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\System.Web.WebPages.dll
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\System.Web.WebPages.Razor.dll
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\WebGrease.dll
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\GenFu.dll
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\EcommerceBase.Domain.pdb
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\EcommerceBase.Domain.dll.config
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\AutoMapper.pdb
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\AutoMapper.xml
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\EntityFramework.xml
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\EntityFramework.SqlServer.xml
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\System.ValueTuple.xml
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\System.Web.Helpers.xml
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\System.Web.Mvc.xml
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\System.Web.Optimization.xml
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\System.Web.Razor.xml
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\System.Web.WebPages.xml
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\System.Web.WebPages.Razor.xml
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\Newtonsoft.Json.xml
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\Antlr3.Runtime.pdb
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\Microsoft.AI.Web.xml
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\obj\Debug\EcommerceBase.Websites.csprojAssemblyReference.cache
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\obj\Debug\EcommerceBase.Websites.csproj.CoreCompileInputs.cache
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\obj\Debug\EcommerceBase.Websites.csproj.CopyComplete
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\obj\Debug\EcommerceBase.Websites.dll
+C:\Users\Minh\Desktop\MVC\MVC\EcommerceBase.Websites\obj\Debug\EcommerceBase.Websites.pdb
